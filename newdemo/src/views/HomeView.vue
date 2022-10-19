@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <button>
-      2222
+      2222er
     </button>
   </div>
 </template>
