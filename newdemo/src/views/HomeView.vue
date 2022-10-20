@@ -8,4 +8,6 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+  import HelloWorld from "@/components/HelloWorld";
+</script>
